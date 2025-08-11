@@ -1,31 +1,40 @@
+**Copyright (c) 2025 Khabab Nazir**
 
-# Licensing for "Spin-Classification-Using-Machine-Learning" Repository
+All rights are reserved unless explicitly granted herein. This repository contains two types of materials—source code and a project report—each governed by a different license.
 
-Copyright (c) 2025 Khabab Nazir  
-All rights reserved unless otherwise noted.
+---
 
-## 1. Code Licensing
-All source code files in this repository (including but not limited to `.py`, `.ipynb`, `.m`, or any other programming/script files) are NOT open source.  
-They are provided for personal viewing and educational reference only.  
-You may NOT copy, reproduce, distribute, publicly display, adapt, or create derivative works from the code without prior written permission from the copyright holder.
+### 1. Code Licensing
 
-For permission requests regarding the code, contact: <khababnazir10@gmail.com>.
+This is a proprietary software license. The source code is made available for limited evaluation purposes as outlined below.
 
-## 2. Report Licensing
-The project report (`Project Report.pdf`) is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+#### **Grant of Limited License**
 
-**You are free to:**
-- Share — copy and redistribute the material in any medium or format.
+The copyright holder (Khabab Nazir) grants you a limited, non-exclusive, non-transferable license to perform the following actions for **personal, educational, and non-commercial evaluation purposes only**:
 
-**Under the following terms:**
-- Attribution — You must give appropriate credit to the author.
-- NonCommercial — You may not use the material for commercial purposes.
-- NoDerivatives — You may not remix, transform, or build upon the material.
+*   **Download:** You may download a copy of the source code to your local machine.
+*   **Execute:** You may run and execute the source code to understand its functionality.
+*   **Modify:** You may modify the source code for the sole purpose of personal experimentation and learning.
 
-Full legal code: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode  
-Human-readable summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Any rights not expressly granted in this section are reserved.
 
-## 3. Summary
-- Code → All rights reserved (no reuse without permission)  
-- Report → CC BY-NC-ND 4.0 (view/share with attribution, no commercial use, no derivatives)
+#### **Permission for Broader Use**
 
+If you wish to use this code for any purpose not covered by the limited license (including but not limited to commercial use, integration into other projects, or redistribution), you must obtain explicit written permission from the copyright holder.
+
+Please direct all permission requests to: **khababnazir10@gmail.com**.
+
+---
+
+### 2. Report Licensing
+
+The project report (`Project Report.pdf`) is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+A summary of this license is available at: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This license permits you to share the report, provided you:
+*   Give appropriate credit to the author.
+*   Do not use the material for commercial purposes.
+*   Do not remix, transform, or build upon the material.
+
+---
