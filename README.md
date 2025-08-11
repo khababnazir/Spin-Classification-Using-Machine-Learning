@@ -1,4 +1,3 @@
-# Spin-Classification-Using-Machine-Learning
 # Spin Classification Using Machine Learning
 
 This repository contains the Python code and implementation for a project exploring the application of various machine learning algorithms to the fundamental physics problem of classifying quantum spin states.
