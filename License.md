@@ -9,7 +9,7 @@ All source code files in this repository (including but not limited to `.py`, `.
 They are provided for personal viewing and educational reference only.  
 You may NOT copy, reproduce, distribute, publicly display, adapt, or create derivative works from the code without prior written permission from the copyright holder.
 
-For permission requests regarding the code, contact: <your-email@example.com>.
+For permission requests regarding the code, contact: <khababnazir10@gmail.com>.
 
 ## 2. Report Licensing
 The project report (`Project Report.pdf`) is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
